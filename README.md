@@ -40,5 +40,9 @@ Then run with
   5. Apply the changes I applied to `serve.c` (search for the pattern "XXX") to
      you generated source file.
 
+## Video
+
+If you're lazy and don't want to compile this. I've also uploaded a
+[video](http://vimeo.com/65211377).
 
 [mgk]: https://github.com/golems/motion-grammar-kit
